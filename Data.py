@@ -28,12 +28,12 @@ sᴇʟᴀᴍᴀᴛ ᴅᴀᴛᴀɴɢ ᴅɪ {}
     # Rest Buttons
     buttons = [
         [InlineKeyboardButton("sᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ sᴇssɪᴏɴ", callback_data="generate")],
-        [InlineKeyboardButton("ᴍᴀɪɴᴛᴇɴᴀɴᴄᴇ ʙʏ👨‍💻", url="https://t.me/JustRex")],
+        [InlineKeyboardButton("ᴍᴀɪɴᴛᴇɴᴀɴᴄᴇ ʙʏ👨‍💻", url="https://t.me/Whyzu")],
         [
             InlineKeyboardButton("ʜᴇʟᴘ", callback_data="help"),
             InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="about")
         ],
-        [InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url="https://t.me/rexaprivateroom")],
+        [InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url="https://t.me/WhyzuNotSupport")],
     ]
 
     # Help Message
@@ -60,5 +60,5 @@ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : [xᴀ sᴜᴘᴘᴏʀᴛ](https://t.me/rexapr
 
 ʟᴀɴɢᴜᴀɢᴇ : [ᴘʏᴛʜᴏɴ](www.python.org)
 
-ᴅᴇᴠᴇʟᴏᴘᴇʀ : @JustRex
+ᴅᴇᴠᴇʟᴏᴘᴇʀ : @Whyzu
     """
